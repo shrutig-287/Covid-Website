@@ -23,7 +23,7 @@ body {
     justify-content: center;
     height:250px;
     width:250px;
-    background:url("images/clock.png") white;
+    background: white;
     background-size: cover;
     border-radius: 50%;
     box-shadow: inset 2px 2px 12px 3px #cfc8c8;
